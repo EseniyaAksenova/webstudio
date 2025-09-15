@@ -13,10 +13,16 @@ WebStudio — это минималистичный и красивый сайт
 
 ## Структура проекта
 
-webstudio/
+webstudio/ 
+
 │
+
 ├─ index.html # Главная страница
+
 ├─ services.html # Страница услуг
+
 ├─ style.css # Стили
+
 ├─ images/ # Картинки для услуг
+
 └─ README.md # Этот файл
